@@ -8,7 +8,7 @@ it takes the data in python and convert to JSON data to send to Client and more 
 
 ### Serializers: 
 
-Djagngo will know what information send to the client.
+Djagngo will know what information send to the client. Format the data: enter and outin the app 
 
 ### ViewSets: 
 
